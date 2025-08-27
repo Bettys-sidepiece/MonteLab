@@ -27,7 +27,7 @@ Like markets. Like life. Probabilistic, not perfect.
 | Backend     | FastAPI, SQLAlchemy, Pydantic |
 | Data & ML   | PostgreSQL, pandas, scikit-learn, XGBoost |
 | Auth        | JWT (OAuth2 optional)         |
-| DevOps      | Docker, GitHub Actions, Fly.io / Vercel |
+| DevOps      | Docker, GitHub Actions, Vercel |
 
 ---
 
